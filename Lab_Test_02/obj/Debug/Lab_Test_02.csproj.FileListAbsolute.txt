@@ -1,0 +1,6 @@
+D:\BASIS_ASP.net\ASP.net Coding\Lab_Test_02\Lab_Test_02\bin\Lab_Test_02.dll.config
+D:\BASIS_ASP.net\ASP.net Coding\Lab_Test_02\Lab_Test_02\bin\Lab_Test_02.dll
+D:\BASIS_ASP.net\ASP.net Coding\Lab_Test_02\Lab_Test_02\bin\Lab_Test_02.pdb
+D:\BASIS_ASP.net\ASP.net Coding\Lab_Test_02\Lab_Test_02\obj\Debug\Lab_Test_02.csprojResolveAssemblyReference.cache
+D:\BASIS_ASP.net\ASP.net Coding\Lab_Test_02\Lab_Test_02\obj\Debug\Lab_Test_02.dll
+D:\BASIS_ASP.net\ASP.net Coding\Lab_Test_02\Lab_Test_02\obj\Debug\Lab_Test_02.pdb
